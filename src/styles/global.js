@@ -14,7 +14,8 @@ export const Globalstyle = createGlobalStyle`
         
         font-size: 1.6rem;
         background: ${props => props.theme.homeBackground};
-        height: 100vh;
+
+        height: 100svh;
         display: flex;
         justify-content: center;
         align-items: center;
